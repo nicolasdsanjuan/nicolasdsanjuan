@@ -1,4 +1,4 @@
-- 👋 Hola! Soy Nicolás San Juan - @nicolasdsanjuan
+- 👋 Hola! Soy Nicolás San Juan (33 años - vivo en Ciudad autónoma de Buenos Aires, Argentina)
 - 👀 Estoy en busca de mi primer experiencia laboral.-
 - 🌱 Actualmente estoy aprendiendo Java Web, JavaServer Faces.-
 - 📫 Pueden contactarme por email a traves de mi correo: nicolasdsanjuan@hotmail.com
