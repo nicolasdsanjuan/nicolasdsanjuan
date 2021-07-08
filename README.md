@@ -1,0 +1,4 @@
+- 👋 Hola! Soy Nicolás San Juan - @nicolasdsanjuan
+- 👀 Estoy en busca de mi primer experiencia laboral.-
+- 🌱 Actualmente estoy aprendiendo Java Web, JavaServer Faces.-
+- 📫 Pueden contactarme por email a traves de mi correo: nicolasdsanjuan@hotmail.com
